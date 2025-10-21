@@ -4,11 +4,12 @@ This project explores how demographic, financial, and behavioral factors influen
 
 Key findings show that female customers tend to have higher credit scores on average, they are more likely to prefer luxury purchases, and while income level affects product category preferences, it does not directly determine overall spending scores. These insights suggest that effective marketing campaigns should combine demographic and behavioral segmentation for stronger personalization and targeting. The repository includes raw and cleaned datasets, Tableau and StatCrunch visualizations, and a full PDF report with analysis and interpretations.
 
-![credit_score_by_gender](reports/credit_score_by_gender.png)  
-![luxury_purchases_by_gender](reports/luxury_purchases_by_gender.png)  
-![boxplots](reports/boxplots.png)
+## Dashboard Preview
+![credit_score_by_gender](./reports/credit_score_by_gender.png)
+![luxury_purchases_by_gender](./reports/luxury_purchases_by_gender.png)
+![boxplots](./reports/boxplots.png)
 
-📄 [Download Full Report](analyzing_consumer_behavior_for_marketing_insights_project.pdf)
+📄 [Download Full Report](./analyzing_consumer_behavior_for_marketing_insight.pdf)
 
 **Author:** Georgia Iferi Itam — Data Analytics Student, Ivy Tech Community College | DBMS 260 – Advanced Data Analytics
 
