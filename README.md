@@ -9,7 +9,8 @@ Key findings show that female customers tend to have higher credit scores on ave
 ![luxury_purchases_by_gender](./consumer-behavior-marketing-insights/reports/luxury_purchases_by_gender.png)
 ![boxplots](./consumer-behavior-marketing-insights/reports/boxplots.png)
 
-📄 [Download Full Report](./consumer-behavior-marketing-insights/analyzing_consumer_behavior_for%20marketing_insight.pdf)
+📄 [Download Full Report](./reports/analyzing_consumer_behavior_for_marketing_insights_project.pdf)
+
 
 **Author:** Georgia Iferi Itam — Data Analytics Student, Ivy Tech Community College | DBMS 260 – Advanced Data Analytics
 
